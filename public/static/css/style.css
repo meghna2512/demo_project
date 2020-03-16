@@ -1,0 +1,30 @@
+body {
+  font-size: 16px;
+  font-family: Open Sans;
+}
+
+section {
+  padding: 70px 0px;
+}
+
+p {
+  font-size: 14px;
+}
+
+header{
+background-color: #fff;
+}
+
+.top_bar {
+  background-color: #a8b811;
+  padding: 19px 15px;
+}
+
+.top_bar h4 {
+  font-size: 0.81em;
+  text-align: center;
+  margin: 0px auto;
+  color: #fff;
+  font-weight: normal;
+  text-transform: uppercase;
+}

@@ -1,0 +1,13 @@
+export const CATEGORY_LIST = "CATEGORY_LIST"
+
+export const INSTITUTE_LIST = "INSTITUTE_LIST"
+
+export const STUDENT_PROFILE = "STUDENT_PROFILE"
+
+export const UNIT_LIST = "UNIT_LIST"
+
+export const SUB_CATEGORY_LIST = "SUB_CATEGORY_LIST"
+
+export const USER_LIST = "USER_LIST"
+
+export const PRODUCT_LIST = "PRODUCT_LIST"
